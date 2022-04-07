@@ -6,6 +6,10 @@
 function getLinksEndpoint() {
     return [
         {
+            "name": "Página web personal",
+            "url": "https://edgarte.com/"
+        },
+        {
             "name": "Source Code: Cloudflare Worker Based Linktree",
             "url": "https://github.com/JLowe-N/CF-Workers-Linktree"
         },
